@@ -15,7 +15,7 @@ In this page toasts were also placed in order for users to interact more clearly
 The third page is were the details inputted are displayed as well as the average, the user also gets to go back to the previous page by clicking in the respective button, the information is shown in a specific format stipulated in the code and the average calculated by a formula also placed there. 
  
  
-Link to my repository: …
+Link to my repository: https://github.com/ST10438375-LeandraInaraFrancoDaSilva/MyPracticeApplication.git
 
 Pseudocode:
 SplashActivity:
