@@ -1,5 +1,7 @@
 ReadMe
+
 Screen Timer App
+
 This app looks forward promote an easy way for individuals to store their screen time over a certain period of time. It displays comprehensive details by the input of date, morning screen time, afternoon screen time both in minutes and notes on which activity was being executed at the moment, average of time used is also displayed by adding the time spent on screen.
 The app makes use of three pages, the first one is only responsible to direct users to the next page or exit the app, is the welcome one.
  
